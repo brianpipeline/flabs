@@ -2,4 +2,4 @@ buildContainer: java17
 envsToDeployToOnMain: ["dev", "qa"]
 envsToDeployToOnRelease: ["stage", "perf", "prod"]
 serviceName: "flabs-service"
-# one day, read app version from pom, gradle build, or package.json.
+
