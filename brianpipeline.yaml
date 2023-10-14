@@ -4,3 +4,4 @@ envsToDeployToOnRelease: ["stage", "perf", "prod"]
 serviceName: "flabs-service"
 
 
+
