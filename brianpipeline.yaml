@@ -3,4 +3,3 @@ envsToDeployToOnMain: ["dev", "qa"]
 envsToDeployToOnRelease: ["stage", "perf", "prod"]
 serviceName: "flabs-service"
 
-
