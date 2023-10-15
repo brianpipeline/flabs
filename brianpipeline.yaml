@@ -1,5 +1,4 @@
 buildContainer: java17
-envsToDeployToOnMain: []
 envsToDeployToOnRelease: ["stage", "perf", "prod"]
 serviceName: "flabs-service"
 
