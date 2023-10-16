@@ -11,6 +11,6 @@ public class FlabsController {
     @GetMapping("/hello-world")
     @ResponseBody
     public String helloWorld() {
-        return "FINALLY. Got everything working... kinda. The versioning anyway.";
+        return "Hopefully this works too.";
     }
 }
