@@ -11,6 +11,6 @@ public class FlabsController {
     @GetMapping("/hello-world")
     @ResponseBody
     public String helloWorld() {
-        return "Version 6.0 now. YEAH.";
+        return "Version 6.0 now. But this is a snapshot.";
     }
 }
